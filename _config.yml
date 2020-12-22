@@ -1,4 +1,5 @@
-title: Your awesome title
+permalink: /chapters/:title
+title: this site
 author: Erfan ekm
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
